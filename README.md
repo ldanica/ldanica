@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Danica, a former laboratory technician looking to transition into data science. I have a background in life sciences with experience in molecular biology through laboratories at the Princess Margaret Hospital and the University of Toronto. My first exposure with data science came at a next-gen sequencing lab where I gained basic knowledge in processing and packaging large data sets. I am currently expanding this expertise through the Data Science program at the Data Science Institute through the University of Toronto.
+
+I come from a line of healthcare workers and researchers and it has fueled my interest in scientific research and medicine. It has also taught me the core principal of following good clinical practices to ensure high quality, ethical research. I bring this guiding principal with me as we venture into new territory with data science and machine learning. As technology evolves, I'm excited to see how we can use it to address the challenges of healthcare and influence policy while ensuring it safeguards the rights and well-being of patients.
+
 <!--
 **ldanica/ldanica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
